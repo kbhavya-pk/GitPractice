@@ -17,7 +17,7 @@ public class Iteration {
 	        Iterator<String> itr = myList.iterator();
 	        while(itr.hasNext()){
 	            System.out.println(itr.next());
-	            System.out.println("Made a changes");
+	            System.out.println("Made a change");
 	    }
 	}
 
