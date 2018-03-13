@@ -19,6 +19,7 @@ public class Iteration {
 	            System.out.println(itr.next());
 <<<<<<< HEAD
 	            System.out.println("Made a change");
+ System.out.println("Second change");
 =======
 	            
 System.out.println("Made a changessss");
